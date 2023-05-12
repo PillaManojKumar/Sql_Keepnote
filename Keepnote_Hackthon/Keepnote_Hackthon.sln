@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Keepnote_Hackthon", "Keepnote_Hackthon.csproj", "{75BE8039-621A-4B14-8E0D-9B9263B0CAC4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{75BE8039-621A-4B14-8E0D-9B9263B0CAC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75BE8039-621A-4B14-8E0D-9B9263B0CAC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75BE8039-621A-4B14-8E0D-9B9263B0CAC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75BE8039-621A-4B14-8E0D-9B9263B0CAC4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {334DEBD5-B33E-49C2-B497-650C1E7AFAA1}
+	EndGlobalSection
+EndGlobal
